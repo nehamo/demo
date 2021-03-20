@@ -1,2 +1,3 @@
 This is a demo file for learning git hub.
 Learning how to do git fetch merge and pull.So implementing it.
+This is the commit in the master branch
