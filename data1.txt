@@ -3,5 +3,4 @@ Learning how to do git fetch merge and pull.So implementing it.
 created in develop branch
 To test the fast forwarding merge
 This is the commit in the develop bransh
-You are in develop branch.
-You made changes to this file just to learn add and commit
+
