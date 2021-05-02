@@ -4,3 +4,5 @@ created in develop branch
 To test the fast forwarding merge
 This is the commit in the develop bransh
 
+This is the commit in the master branch.
+hello World
