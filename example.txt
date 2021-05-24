@@ -1,1 +1,2 @@
 This is my first example in git.
+Trying out git fetch and merge
