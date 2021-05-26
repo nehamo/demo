@@ -1,3 +1,7 @@
 12345678910
+<<<<<<< HEAD
 This is a example of 3way merge
 This is a fast forward
+=======
+This is to display the example of cherry-pick
+>>>>>>> 6d5091c (This is to display the example of cherrypich)
